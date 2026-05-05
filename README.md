@@ -1,5 +1,5 @@
 # 💫 About Me:
-Abdelrahman Mohamed From Minia,<br>study computer science in badr university assiut, Cyber Security Enthusiast |  <br>Learning Web Security, PHP, SQL, and Networking.
+Abdelrahman Mohamed From Minia,<br>study computer science in badr university assiut, Cyber Security Enthusiast |  <br>Learning Web Security, PHP and SQL.
 
 
 # 💻 Tech Stack:
